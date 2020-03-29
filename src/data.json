@@ -1,0 +1,51 @@
+{
+  "name": "Hack Happy Valley 2018",
+  "title": "Hack Happy Valley – High school hackathon in Central PA",
+  "description":
+    "A free hackathon for high schoolers in State College, PA that happened June 2, 2018. 24 hours of coding, fun, free food, and prizes.",
+  "url": "https://hackhappyvalley.com",
+  "twitter": "@hackhv",
+  "img": "https://hackhappyvalley.com/logo.png",
+  "urls": {
+    "twitter": "https://twitter.com/hackhv",
+    "instagram": "https://www.instagram.com/hackhv",
+    "facebook": "https://www.facebook.com/hackhv",
+    "messenger": "https://m.me/hackhv"
+  },
+  "org": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Hack Happy Valley",
+    "url": "https://hackhappyvalley.com",
+    "logo": "https://hackhappyvalley.com/logo.png",
+    "sameAs": [
+      "https://twitter.com/hackhv",
+      "https://www.instagram.com/hackhv",
+      "https://www.facebook.com/hackhv"
+    ],
+    "contactPoint": [
+      {
+        "@type": "ContactPoint",
+        "email": "contact@hackhappyvalley.com",
+        "contactType": "customer support",
+        "url": "https://hackhappyvalley.com"
+      }
+    ]
+  },
+  "event": {
+    "@context": "http://schema.org/",
+    "@type": "Event",
+    "name": "Hack Happy Valley",
+    "description": "The first high school hackathon in Central Pennsylvania. 24 hours of coding, fun, free food, and prizes.",
+    "url": "https://hackhappyvalley.com",
+    "image": "https://hackhappyvalley.com/logo.png",
+    "sponsor": {
+      "@type": "Organization",
+      "name": "Hack Club",
+      "url": "https://hackclub.com"
+    },
+    "startDate": "2018-06-02T12:00",
+    "endDate": "2018-06-02T12:00",
+    "isAccessibleForFree": true
+  }
+}
