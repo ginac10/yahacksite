@@ -25,7 +25,7 @@
 
 "@hackclub/design-system@0.0.1-9":
   version "0.0.1-9"
-  resolved "http://registry.npmjs.org/@hackclub/design-system/-/design-system-0.0.1-9.tgz#6e857471fb59eef02cdfd5e0d75c0c7f707a36fb"
+  resolved "https://registry.npmjs.org/@hackclub/design-system/-/design-system-0.0.1-9.tgz#6e857471fb59eef02cdfd5e0d75c0c7f707a36fb"
   dependencies:
     lodash "^4.17.5"
     palx "1.0.2"
@@ -352,7 +352,7 @@ are-we-there-yet@~1.1.2:
 
 arg@2.0.0:
   version "2.0.0"
-  resolved "http://registry.npmjs.org/arg/-/arg-2.0.0.tgz#c06e7ff69ab05b3a4a03ebe0407fac4cba657545"
+  resolved "https://registry.npmjs.org/arg/-/arg-2.0.0.tgz#c06e7ff69ab05b3a4a03ebe0407fac4cba657545"
 
 argparse@^1.0.7:
   version "1.0.10"
@@ -513,13 +513,7 @@ async@^0.9.0:
   version "0.9.2"
   resolved "https://registry.yarnpkg.com/async/-/async-0.9.2.tgz#aea74d5e61c1f899613bf64bda66d4c78f2fd17d"
 
-async@^2.1.2:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/async/-/async-2.6.0.tgz#61a29abb6fcc026fea77e56d1c6ec53a795951f4"
-  dependencies:
-    lodash "^4.14.0"
-
-async@^2.6.2:
+async@^2.1.2, async@^2.6.2:
   version "2.6.3"
   resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
   integrity sha512-zflvls11DCy+dQWzTW2dzuilv8Z5X/pjfmZOWba6TNIVDm+2UDaJmXSOXlasHKfNBs8oo3M0aT50fDEWfKZjXg==
@@ -4813,10 +4807,10 @@ handlebars@4.0.11:
   optionalDependencies:
     uglify-js "^2.6"
 
-handlebars@4.3.0:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.3.0.tgz#427391b584626c9c9c6ffb7d1fb90aa9789221cc"
-  integrity sha512-7XlnO8yBXOdi7AzowjZssQr47Ctidqm7GbgARapOaqSN9HQhlClnOkR9HieGauIT3A8MBC6u9wPCXs97PCYpWg==
+handlebars@4.5.3:
+  version "4.5.3"
+  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.5.3.tgz#5cf75bd8714f7605713511a56be7c349becb0482"
+  integrity sha512-3yPecJoJHK/4c6aZhSvxOyG4vJKDshV36VHp0iVCDVh7o9w2vwi3NSnL2MMPj3YdduqaBcu7cGbggJQM0br9xA==
   dependencies:
     neo-async "^2.6.0"
     optimist "^0.6.1"
@@ -6375,7 +6369,7 @@ lodash@3.10.1, lodash@^3.2.0:
   version "3.10.1"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.10.1.tgz#5bf45e8e49ba4189e17d482789dfd15bd140b7b6"
 
-lodash@4, lodash@^4.0.0, lodash@^4.1.0, lodash@^4.13.1, lodash@^4.14.0, lodash@^4.17.0, lodash@^4.17.2, lodash@^4.17.4, lodash@^4.2.0, lodash@^4.2.1, lodash@^4.3.0, lodash@^4.6.1:
+lodash@4, lodash@^4.0.0, lodash@^4.1.0, lodash@^4.13.1, lodash@^4.17.0, lodash@^4.17.2, lodash@^4.17.4, lodash@^4.2.0, lodash@^4.2.1, lodash@^4.3.0, lodash@^4.6.1:
   version "4.17.5"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.5.tgz#99a92d65c0272debe8c96b6057bc8fbfa3bed511"
 
@@ -7362,7 +7356,7 @@ opn@5.2.0, opn@^5.1.0:
 
 opn@5.3.0:
   version "5.3.0"
-  resolved "http://registry.npmjs.org/opn/-/opn-5.3.0.tgz#64871565c863875f052cfdf53d3e3cb5adb53b1c"
+  resolved "https://registry.npmjs.org/opn/-/opn-5.3.0.tgz#64871565c863875f052cfdf53d3e3cb5adb53b1c"
   dependencies:
     is-wsl "^1.1.0"
 
@@ -10554,7 +10548,7 @@ styled-components@^3.2.6:
 
 styled-system@1.1.7, styled-system@^1.1.4:
   version "1.1.7"
-  resolved "http://registry.npmjs.org/styled-system/-/styled-system-1.1.7.tgz#b9b6906aaec41b9c79f40780e07dc39b81fe93fb"
+  resolved "https://registry.npmjs.org/styled-system/-/styled-system-1.1.7.tgz#b9b6906aaec41b9c79f40780e07dc39b81fe93fb"
   dependencies:
     prop-types "^15.6.0"
 
