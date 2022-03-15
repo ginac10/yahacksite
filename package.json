@@ -41,7 +41,7 @@
     "js-yaml": "^3.13.1",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.15",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "lodash.merge": "^4.6.2",
     "lodash.template": "^4.5.0",
     "macaddress": "^0.2.9",
